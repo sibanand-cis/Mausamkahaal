@@ -1,6 +1,6 @@
 # Mausamkahaal
 
-TODO: Write a gem description
+Fetches the weather forecast for next 7 days from george-vustrey-weather and mashape api.
 
 ## Installation
 
