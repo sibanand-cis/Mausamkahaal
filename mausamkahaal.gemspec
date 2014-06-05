@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["sibananda.k@cisinlabs.com"]
   spec.summary       = %q{Fetches the weather forecast for next 7 days.}
   spec.description   = %q{Fetches the weather forecast for next 7 days from george-vustrey-weather and mashape api.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/sibanand-cis/Mausamkahaal"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
